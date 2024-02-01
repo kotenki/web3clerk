@@ -1,5 +1,4 @@
 *.log
-*.out
 *.db
 keys.*
 __pycache__
