@@ -220,6 +220,6 @@ supported_tokens = {
 "ZENCASH": "ZEN",
 "ZILLIQA": "ZIL",
 "SUI": "SUI",
-"JUPITER": "JUP"
-
+"JUPITER": "JUP",
+"PROJECT-GALAXY": "GAL"
 }
