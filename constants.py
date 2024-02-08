@@ -221,5 +221,9 @@ supported_tokens = {
 "ZILLIQA": "ZIL",
 "SUI": "SUI",
 "JUPITER": "JUP",
-"PROJECT-GALAXY": "GAL"
+"PROJECT-GALAXY": "GAL",
+"DYMENSION": "DYM,
+"MANTA-NETWORK": "MANTA",
+"CELESTIA": "TIA",
+"ALTLAYER": "ALT"
 }
