@@ -222,7 +222,7 @@ supported_tokens = {
 "SUI": "SUI",
 "JUPITER": "JUP",
 "PROJECT-GALAXY": "GAL",
-"DYMENSION": "DYM,
+"DYMENSION": "DYM",
 "MANTA-NETWORK": "MANTA",
 "CELESTIA": "TIA",
 "ALTLAYER": "ALT"
