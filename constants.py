@@ -225,5 +225,6 @@ supported_tokens = {
 "DYMENSION": "DYM",
 "MANTA-NETWORK": "MANTA",
 "CELESTIA": "TIA",
-"ALTLAYER": "ALT"
+"ALTLAYER": "ALT",
+"ARBITRUM": "ARB"
 }
